@@ -1,11 +1,8 @@
 # TriangleLight
-Custom designed, open-source, wireless, ambient RGB light.
+TriangleLight is a battery powered RGB mood lamp supporting multiple operating modes such as manual, automatic, bluetooth remote, and music control.
 
 ## Features
 - Sound reactive
 - Battery powered
 - Bluetooth connectivity
 - Full color (RGB spectrum)
-
-## Information
-[stanleyprojects.com/projects/electronics/trianglelight](https://stanleyprojects.com/projects/electronics/trianglelight)
